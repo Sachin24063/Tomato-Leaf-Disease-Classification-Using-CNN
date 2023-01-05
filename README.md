@@ -10,6 +10,7 @@ In this  project, we classify tomato leaves in 10 diffrent classes. for detectin
 The Folder structure for given project is given below.
 
 - UI 
+
 This Folder Contains all the UI codes like CSS,java script and node js.
 
 
