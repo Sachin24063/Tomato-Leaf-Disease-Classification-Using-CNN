@@ -15,15 +15,19 @@ This Folder Contains all the UI codes like CSS,java script and node js.
 
 
 - Saved_Model
+
 This Folder Contains some of the diffrent created models for version control.
 
 - API
+
 In this folder there is a python file for build the FASTAPI server.
 
 - training.ipynb
+
 This File contains all the python code for data load, transform, data cleaning and model creation. and also save the model in diffrent versions.
 
 - Dataset Link
+
 https://www.kaggle.com/datasets/emmarex/plantdisease
 
 
