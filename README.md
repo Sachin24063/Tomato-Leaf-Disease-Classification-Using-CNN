@@ -44,3 +44,8 @@ npm run start
 
  - [Codebasics Youtube Channel](https://www.youtube.com/@codebasics)
  
+ ## UI layout 
+ 
+ <img width="1439" alt="Screenshot 2022-07-22 at 11 58 07 AM" src="https://user-images.githubusercontent.com/98344845/210929915-0b4e37ce-c11b-4e1c-89ea-ee856a2fbbb1.png">
+
+ 
