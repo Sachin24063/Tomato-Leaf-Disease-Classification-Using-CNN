@@ -30,6 +30,10 @@ This File contains all the python code for data load, transform, data cleaning a
 
 https://www.kaggle.com/datasets/emmarex/plantdisease
 
+- Demo Video Link
+
+https://www.youtube.com/watch?v=wMYrQiqRlI4&t=118s
+
 
 Here is list of all the used technologies.
 
